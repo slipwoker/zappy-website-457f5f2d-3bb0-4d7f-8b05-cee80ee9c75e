@@ -5979,6 +5979,43 @@ div[id*="mic-access-tool-box"] button[class*="reset"] * {
 ._access-icon {
   display: flex !important;
 }
+
+.index-hero-section .index-hero-phone-block {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  margin-bottom: 20px;
+  flex-wrap: wrap;
+}
+
+.index-hero-section .index-hero-phone-number {
+  font-size: clamp(2rem, 5vw, 3.2rem);
+  font-weight: 800;
+  color: var(--primary-color);
+  text-decoration: none;
+  letter-spacing: 2px;
+  text-shadow: 0 0 20px rgba(0, 212, 255, 0.5);
+  direction: ltr;
+  display: inline-block;
+  transition: color 0.2s ease, text-shadow 0.2s ease;
+}
+
+.index-hero-section .index-hero-phone-number:hover {
+  color: #ffffff;
+  text-shadow: 0 0 30px rgba(0, 212, 255, 0.8);
+}
+
+.index-hero-section .index-hero-shabbat-badge {
+  background: linear-gradient(135deg, #1a2744 0%, #0D1420 100%);
+  border: 1.5px solid rgba(184, 255, 59, 0.5);
+  color: var(--secondary-color);
+  font-size: 0.85rem;
+  font-weight: 700;
+  padding: 6px 14px;
+  border-radius: 20px;
+  white-space: nowrap;
+  letter-spacing: 0.5px;
+}
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
