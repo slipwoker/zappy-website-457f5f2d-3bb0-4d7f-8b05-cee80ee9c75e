@@ -73,7 +73,7 @@ Description: A local taxi service operating in Rehovot and the surrounding area,
 ## מספרים שמדברים בעד עצמם
 
 מוניות רחובות והסביבה מספקת שירות אמין, מהיר ומקצועי לאלפי נוסעים מדי יום — כי הזמן שלכם יקר.
-8 דק׳
+5 דק׳
 ### זמן המתנה ממוצע
 
 רכב מגיע אליכם תוך דקות ספורות בכל שעות היממה
@@ -93,7 +93,7 @@ Description: A local taxi service operating in Rehovot and the surrounding area,
 ## מוכנים לדרך?נסע עכשיו
 
 מוניות רחובות והסביבה זמינים עבורך בכל שעה — פשוט התקשר ואנחנו נגיע אליך מהר.
-- מענה מהיר זמן הגעה ממוצע עד 10 דקות
+- מענה מהיר זמן הגעה ממוצע עד 5 דקות
 - נהגים מנוסים מקצועיים, מנומסים ואמינים
 - כיסוי מלא רחובות, נס ציונה, ראשון לציון ועוד
 
@@ -117,7 +117,7 @@ Description: A local taxi service operating in Rehovot and the surrounding area,
 
 ### צרו קשר
 - [business_email]
-- [business_phone]
+- 08-9-170-170
 - [business_address]
 
 ### שעות פעילות
@@ -270,7 +270,7 @@ Description: מדיניות הפרטיות שלנו - כיצד אנו אוספי
 
 - אימייל: [business_email]
 
-- טלפון: [business_phone]
+- טלפון: 08-9-170-170
 
 - כתובת: [business_address]
 
@@ -296,7 +296,7 @@ Description: מדיניות הפרטיות שלנו - כיצד אנו אוספי
 
 ### צרו קשר
 - [business_email]
-- [business_phone]
+- 08-9-170-170
 - [business_address]
 
 ### שעות פעילות
@@ -457,7 +457,7 @@ Description: הצהרת הנגישות שלנו - מחויבותנו לנגיש�
 
 - אימייל: [business_email]
 
-- טלפון: [business_phone]
+- טלפון: 08-9-170-170
 
 
 
@@ -484,7 +484,7 @@ Description: הצהרת הנגישות שלנו - מחויבותנו לנגיש�
 
 ### צרו קשר
 - [business_email]
-- [business_phone]
+- 08-9-170-170
 - [business_address]
 
 ### שעות פעילות
@@ -668,7 +668,7 @@ Description: תנאי השימוש באתר - הזכויות והחובות של
 
 - אימייל: [business_email]
 
-- טלפון: [business_phone]
+- טלפון: 08-9-170-170
 
 - כתובת: [business_address]
 
@@ -691,7 +691,7 @@ Description: תנאי השימוש באתר - הזכויות והחובות של
 
 ### צרו קשר
 - [business_email]
-- [business_phone]
+- 08-9-170-170
 - [business_address]
 
 ### שעות פעילות
