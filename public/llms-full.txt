@@ -2,13 +2,13 @@
 
 A local taxi service operating in Rehovot and the surrounding area, targeting residents and visitors who need reliable transportation. The business serves the local community with cab and ride services in the Rehovot region.
 
-Source: https://-457f5f2d.zappy5.app
+Source: https://example.com
 
 ---
 
 ## מוניות רחובות והסביבה — מוניות רחובות והסביבה
 
-URL: https://-457f5f2d.zappy5.app
+URL: https://example.com
 Description: A local taxi service operating in Rehovot and the surrounding area, targeting residents and visitors who need reliable transportation. The business serves the l
 
 מוניות רחובות והסביבה — מוניות רחובות והסביבה
@@ -677,7 +677,7 @@ Description: A local taxi service operating in Rehovot and the surrounding area,
 
 ## מדיניות פרטיות
 
-URL: https://-457f5f2d.zappy5.app/privacy
+URL: https://example.com/privacy
 Description: מדיניות הפרטיות שלנו - כיצד אנו אוספים, משתמשים ומגנים על המידע שלכם
 
 מדיניות פרטיות
@@ -941,7 +941,7 @@ Description: מדיניות הפרטיות שלנו - כיצד אנו אוספי
 
 ## הצהרת נגישות
 
-URL: https://-457f5f2d.zappy5.app/accessibility
+URL: https://example.com/accessibility
 Description: הצהרת הנגישות שלנו - מחויבותנו לנגישות דיגיטלית
 
 הצהרת נגישות
@@ -1214,7 +1214,7 @@ Description: הצהרת הנגישות שלנו - מחויבותנו לנגיש�
 
 ## תנאי שימוש
 
-URL: https://-457f5f2d.zappy5.app/terms
+URL: https://example.com/terms
 Description: תנאי השימוש באתר - הזכויות והחובות של המשתמשים
 
 תנאי שימוש
