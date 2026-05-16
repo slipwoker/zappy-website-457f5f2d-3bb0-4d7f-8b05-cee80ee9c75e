@@ -1,0 +1,67 @@
+# מוניות רחובות והסביבה — Generative Engine Optimization Map
+
+> A local taxi service operating in Rehovot and the surrounding area, targeting residents and visitors who need reliable transportation. The business serves the local community with cab and ride services in the Rehovot region.
+
+---
+
+## Pages
+
+### בית
+https://-457f5f2d.zappy5.app
+A local taxi service operating in Rehovot and the surrounding area, targeting residents and visitors who need reliable transportation. The business serves the l
+
+## Legal & Policy
+
+### Privacy Policy
+https://-457f5f2d.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-457f5f2d.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-457f5f2d.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://-457f5f2d.zappy5.app
+- Endpoint: https://-457f5f2d.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text, required)
+  - `email` (email, required)
+  - `phone` (tel, required)
+  - `message` (textarea)
+  - `privacy_consent` (checkbox, required)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About מוניות רחובות והסביבה
+A local taxi service operating in Rehovot and the surrounding area, targeting residents and visitors who need reliable transportation. The business serves the local community with cab and ride services in the Rehovot region.
+
+## Target Audience
+- תושבי רחובות והאזור הסובב
+- תושבי רחובות והסביבה
+- נוסעים יומיים לעבודה
+- מבקרי אירועים מקומיים
+
+## Industry
+Transportation
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-457f5f2d.zappy5.app/sitemap.xml
+- Robots: https://-457f5f2d.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-457f5f2d.zappy5.app/llms-full.txt
