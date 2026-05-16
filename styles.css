@@ -6017,6 +6017,14 @@ div[id*="mic-access-tool-box"] button[class*="reset"] * {
   letter-spacing: 0.5px;
 }
 
+.index-hero-section .phone-header-btn {
+  color: #00cc44 !important;
+}
+
+.index-hero-section .phone-header-btn svg path {
+  fill: #00cc44 !important;
+}
+
 .navbar .phone-header-btn {
   color: #00cc44 !important;
 }
